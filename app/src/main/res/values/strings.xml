@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AplicationJD</string>
+    <string name="Required">Campo obligatorio*</string>
+    <string name="required" />
 </resources>
